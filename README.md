@@ -1,2 +1,5 @@
-# E-commerce-react-native-app
-This is an E- commerce App using React Native as a Front end and Node MySQL as a backend.
+# React Native E-Commerce App
+
+
+# How to create DB 
+    `I Have added the file createDB in folder backend/DB just run this file in MYSQL workbench`
